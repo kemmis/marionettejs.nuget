@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Backbone.Marionette</id>
+    <version>1.0.2</version>
+    <title>MarionetteJS</title>
+    <authors>Derick Bailey</authors>
+    <owners>Ben Ellis (Old Town IT)</owners>
+    <licenseUrl>https://github.com/marionettejs/backbone.marionette/blob/master/license.txt</licenseUrl>
+    <projectUrl>https://github.com/marionettejs/backbone.marionette/</projectUrl>
+    <iconUrl>https://dl.dropbox.com/u/1083559/marionettejs-icon-128x128.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Backbone.Marionette is a composite application library for Backbone.js that aims to simplify the construction of large scale JavaScript applications.</description>
+    <releaseNotes />
+    <copyright />
+    <language />
+    <tags>MVC JavaScript clientside composite application architecture framework browser Backbone</tags>
+    <dependencies>
+      <dependency id="Backbone.js" version="1.0.0" />
+    </dependencies>
+    <references />
+  </metadata>
+</package>
